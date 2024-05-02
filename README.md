@@ -3,6 +3,10 @@
 For building and running the application you need:
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - Mysql Database 5.5 minimum
+# Feature
+1.Multi-Thread
+2.Spring Data JPA
+3.Class uses as InputStream,FileOutputStream,BufferedReader,StringBuffer,JdbcTemplate
 
 # Runnig this project
 
