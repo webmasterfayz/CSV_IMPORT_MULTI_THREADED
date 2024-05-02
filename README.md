@@ -6,9 +6,9 @@ For building and running the application you need:
 
 
 # Feature
-1.Multi-Thread
-2.Spring Data JPA
-3.Class uses as InputStream,FileOutputStream,BufferedReader,StringBuffer,JdbcTemplate
+- Multi-Thread
+- Spring Data JPA
+- Class uses as InputStream,FileOutputStream,BufferedReader,StringBuffer,JdbcTemplate
 
 # Runnig this project
 
